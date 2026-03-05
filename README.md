@@ -14,7 +14,7 @@ que detecta automáticamente los conflictos de doble reserva.
 - **Bronze**: Datos crudos sin modificar
 - **Silver**: Datos limpios, normalizados y con estados
 - **Gold**: Análisis, reportes y detección de conflictos
-- 
+  
 ## Preguntas de negocio que resuelve
 
 1. **¿Qué inflables son los más demandados?**  
