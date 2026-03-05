@@ -14,7 +14,20 @@ que detecta automáticamente los conflictos de doble reserva.
 - **Bronze**: Datos crudos sin modificar
 - **Silver**: Datos limpios, normalizados y con estados
 - **Gold**: Análisis, reportes y detección de conflictos
+- 
+## Preguntas de negocio que resuelve
 
+1. **¿Qué inflables son los más demandados?**  
+   Identificamos que el Castillo arcoiris es el más alquilado, lo que ayuda a priorizar su mantenimiento.
+
+2. **¿En qué estado operativo están los inflables?**  
+   El sistema muestra en tiempo real si cada inflable está en entrega, en uso o en limpieza.
+
+3. **¿Existen conflictos de doble reserva?**  
+   La consulta principal detecta automáticamente cuando el mismo inflable fue reservado dos veces en el mismo horario, evitando conflictos con clientes.
+
+4. **¿Cuál es la disponibilidad por fecha?**  
+   Se puede consultar qué inflables están disponibles u ocupados para cualquier fecha específica.
 ## Tecnologías utilizadas
 - Databricks (Community Edition)
 - SQL / PySpark
