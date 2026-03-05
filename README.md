@@ -46,3 +46,5 @@ La necesidad concreta de resolver un problema del día a día fue lo que
 me motivó a aplicar los conceptos aprendidos en el bootcamp a un caso real.
 
 📫 GitHub: [Lautaro-dats](https://github.com/Lautaro-dats)
+    Linkedin: www.linkedin.com/in/
+lautaro-caravario-4
