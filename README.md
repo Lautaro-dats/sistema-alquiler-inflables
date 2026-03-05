@@ -22,5 +22,5 @@ que detecta automáticamente los conflictos de doble reserva.
 - GitHub
 
 ## Dashboard
-[Insertar capturas ![WhatsApp Image 2026-03-05 at 12 04 31](https://github.com/user-attachments/assets/5cca3af8-686a-4b9c-ab34-81da058c819b)
-del dashboard acá]
+ ![WhatsApp Image 2026-03-05 at 12 04 31](https://github.com/user-attachments/assets/5cca3af8-686a-4b9c-ab34-81da058c819b)
+
