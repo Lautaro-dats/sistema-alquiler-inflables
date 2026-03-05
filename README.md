@@ -36,4 +36,13 @@ que detecta automáticamente los conflictos de doble reserva.
 
 ## Dashboard
  ![WhatsApp Image 2026-03-05 at 12 04 31](https://github.com/user-attachments/assets/5cca3af8-686a-4b9c-ab34-81da058c819b)
+## Sobre el autor
 
+Soy Lautaro, actualmente haciendo un bootcamp de ingeniería de datos.
+Este proyecto nació de un problema real en mi trabajo — una empresa 
+de alquiler de inflables y peloteros para eventos y cumpleaños.
+
+La necesidad concreta de resolver un problema del día a día fue lo que 
+me motivó a aplicar los conceptos aprendidos en el bootcamp a un caso real.
+
+📫 GitHub: [Lautaro-dats](https://github.com/Lautaro-dats)
